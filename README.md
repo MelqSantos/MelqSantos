@@ -1,10 +1,14 @@
-Olá, me chamo Melquisedec, recém formado em desenvolvimento de sistemas, apaixonado por tecnologia, sou iniciante na programação.
+## Hi, i'm Melqui Santos! :D
 
-Aqui algumas informações interessantes:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melquisedec-santos/)
+[![Whastsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511987940323)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melqsantos96@gmail.com)
 
-Link do meu Linkedin: https://linkedin.com/in/melquisedec-santos
+### About me
 
-Link do meu portfólio: https://melqui.vercel.app
+I'm a beginner Frontend developer, passionate about technology, just graduated in systems development i keep delving into programming. 
 
-Vamos nos conectar? 🤝
+- [Portfolio](https://melqui.vercel.app) 💻 - Working on it.
+
+How about we connect? 🤝
 
