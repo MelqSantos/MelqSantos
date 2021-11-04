@@ -3,13 +3,14 @@
 - I'm currently studying web development.
 
 - [Portfolio](https://melqui.vercel.app) :computer: - Working on it.
-<div align="center">
+<div align="center" width="100%">
   <a href="https://github.com/MelqSantos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MelqSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqSantos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MelqSantos&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqSantos&layout=compact&langs_count=7&theme=monokai"/>
+</a>
 </div>
 
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
