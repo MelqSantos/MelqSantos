@@ -5,8 +5,8 @@
 - [Portfolio](https://melqui.vercel.app) :computer: - Working on it.
 <div width="100%">
   <a href="https://github.com/MelqSantos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MelqSantos&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqSantos&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MelqSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqSantos&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </div>
 
@@ -16,6 +16,8 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
   <img align="center" alt="Nodejs" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
   <img align="center" alt="Sql" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
+  <img align="center" alt="SpringBoot" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" >
+  <img align="center" alt="Docker" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" >
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
