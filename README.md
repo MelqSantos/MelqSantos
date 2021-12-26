@@ -1,8 +1,11 @@
-## Hi, i'm Melqui Santos! :wave:
+## Hi there, i'm Melqui Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - I'm currently studying web development.
 
 - [Portfolio](https://melqui.vercel.app) :computer: - Working on it.
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MelqSantos.MelqSantos)
+
 <div width="100%">
   <a href="https://github.com/MelqSantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MelqSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,6 +17,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+  <img align="center" alt="Spring" height="50" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" >
   <img align="center" alt="Nodejs" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
   <img align="center" alt="Sql" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
   <img align="center" alt="Docker" height="50" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" >
