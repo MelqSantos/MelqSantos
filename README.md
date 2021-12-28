@@ -13,7 +13,7 @@ information. Enjoy it!
 
 </td>
 <td style="border: none !important">        
-<img src="https://github.com/MelqSantos/Teste_README/blob/main/assets/Thanos.webp" width="200em" height="100%">
+<img src="https://github.com/MelqSantos/MelqSantos/blob/main/assets/Thanos.webp" width="200em" height="100%">
 </td>
 <td align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="width: 40px; height: 40px"><br>
@@ -38,7 +38,7 @@ information. Enjoy it!
 </a>
 </div><br>
 
-<img src="https://github.com/MelqSantos/Teste_README/blob/main/assets/frontDev1.png" align="left" width="240" height="180">
+<img src="https://github.com/MelqSantos/MelqSantos/blob/main/assets/frontDev1.png" align="left" width="240" height="180">
 
 <div>
         
