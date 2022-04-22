@@ -2,7 +2,7 @@
 ### Hello, Hola, Olá.
 
 ## I'm Melqui Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Web Developer & Front-End Designer
+Full Stack Developer
       
 > Hi, welcome to my profile! I\'m 25, technician in system development,<br>
 Front End developer and above all super passionate about technology and
@@ -29,7 +29,7 @@ information. Enjoy it!
 </div>
 <div>
         
-## Find me around the web :dart: :
+## Find me around the web :dart:
         
 - Sharing updates on [Linkedin](https://linkedin.com/in/melquisedec-santos).
 - Working on my [Portfolio](https://msportfolio.vercel.app).
