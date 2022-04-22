@@ -3,7 +3,7 @@
 
 ## I'm Melqui Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Web Developer & Front-End Designer
-        
+      
 > Hi, welcome to my profile! I\'m 25, technician in system development,<br>
 Front End developer and above all super passionate about technology and
 information. Enjoy it!
@@ -17,7 +17,7 @@ information. Enjoy it!
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" style="width: 40px; height: 40px"><br>
 </div><br>
         
-<div align="center">
+<div>
  
 <a href="https://github.com/MelqSantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MelqSantos&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
@@ -26,7 +26,7 @@ information. Enjoy it!
 </div><br>
 
 <img src="https://github.com/MelqSantos/MelqSantos/blob/main/assets/frontDev1.png" align="left" width="240" height="180">
-
+</div>
 <div>
         
 ## Find me around the web :dart: :
@@ -37,5 +37,6 @@ information. Enjoy it!
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MelqSantos.MelqSantos)
 How about we connect? :handshake:
+
 
 
