@@ -1,7 +1,7 @@
 
 ### Hello, Hola, Olá.
 
-## I'm Melqui Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## I'm Melqui Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 Full Stack Developer
       
 > Hi, welcome to my profile! I\'m 25, technician in system development,<br>
@@ -11,8 +11,10 @@ information. Enjoy it!
 <div style="display: flex;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="width: 40px; height: 40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" style="width: 40px; height: 40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="width: 40px; height: 40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="width: 40px; height: 40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" style="width: 40px; height: 40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="width: 40px; height: 40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width: 40px; height: 40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" style="width: 40px; height: 40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" style="width: 40px; height: 40px"><br>
 </div><br>
