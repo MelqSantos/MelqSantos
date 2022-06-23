@@ -14,7 +14,7 @@ information. Enjoy it!
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="width: 40px; height: 40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" style="width: 40px; height: 40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="width: 40px; height: 40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width: 40px; height: 40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" style="width: 40px; height: 40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" style="width: 40px; height: 40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" style="width: 40px; height: 40px"><br>
 </div><br>
